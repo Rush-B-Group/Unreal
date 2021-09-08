@@ -1,0 +1,2 @@
+C:\Users\31957\Desktop\UE4\Clay\Intermediate\Build\Win64\UE4Editor\Development\Clay\Definitions.Clay.h
+C:\Users\31957\Desktop\UE4\Clay\Source\Clay\Clay.h

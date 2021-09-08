@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Clay.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{66C4908B-F61F-4F65-984E-FDBEAB71588C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Clay.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ClayEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E504A896-86AF-4A10-A8E5-9136DC42CB1E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Clay">
+      <UniqueIdentifier>{C47EFFB9-135A-4F2C-81E5-12DFC7B86579}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Clay\Clay.Build.cs">
+      <Filter>Source\Clay</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Clay\Clay.cpp">
+      <Filter>Source\Clay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clay\Clay.h">
+      <Filter>Source\Clay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clay\ClayGameModeBase.cpp">
+      <Filter>Source\Clay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clay\ClayGameModeBase.h">
+      <Filter>Source\Clay</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

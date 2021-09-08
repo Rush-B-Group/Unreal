@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Clay",
+			"Path": "C:\\Users\\31957\\Desktop\\UE4\\Clay\\Source\\Clay.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ClayEditor",
+			"Path": "C:\\Users\\31957\\Desktop\\UE4\\Clay\\Source\\ClayEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
