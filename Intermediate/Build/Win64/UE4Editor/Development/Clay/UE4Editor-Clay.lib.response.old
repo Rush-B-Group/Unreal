@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Clay.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\31957\Desktop\UE4\Clay\Intermediate\Build\Win64\ClayEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\31957\Desktop\UE4\Clay\Intermediate\Build\Win64\UE4Editor\Development\Clay\Clay.cpp.obj"
+"C:\Users\31957\Desktop\UE4\Clay\Intermediate\Build\Win64\UE4Editor\Development\Clay\ClayGameModeBase.cpp.obj"
+"C:\Users\31957\Desktop\UE4\Clay\Intermediate\Build\Win64\UE4Editor\Development\Clay\Clay.init.gen.cpp.obj"
+"C:\Users\31957\Desktop\UE4\Clay\Intermediate\Build\Win64\UE4Editor\Development\Clay\ClayGameModeBase.gen.cpp.obj"
+"C:\Users\31957\Desktop\UE4\Clay\Intermediate\Build\Win64\UE4Editor\Development\Clay\Default.rc2.res"
+/OUT:"C:\Users\31957\Desktop\UE4\Clay\Intermediate\Build\Win64\UE4Editor\Development\Clay\UE4Editor-Clay.lib"
+/INCLUDE:IMPLEMENT_MODULE_Clay

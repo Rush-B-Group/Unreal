@@ -1,3 +1,0 @@
-C:\Users\31957\Desktop\UE4\Clay\Intermediate\Build\Win64\UE4Editor\Development\Clay\Definitions.Clay.h
-D:\xuhuan\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\xuhuan\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

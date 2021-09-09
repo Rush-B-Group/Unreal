@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Clay.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{66C4908B-F61F-4F65-984E-FDBEAB71588C}</UniqueIdentifier>
+      <UniqueIdentifier>{878D6BF0-2615-4B65-A3F1-8B1701A7E845}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Clay.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\ClayEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{E504A896-86AF-4A10-A8E5-9136DC42CB1E}</UniqueIdentifier>
+      <UniqueIdentifier>{33B97C23-4DF6-45AF-8D62-B2C57D5185E6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +26,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Clay">
-      <UniqueIdentifier>{C47EFFB9-135A-4F2C-81E5-12DFC7B86579}</UniqueIdentifier>
+      <UniqueIdentifier>{C8140255-C35E-49A2-80D6-83B158DF9258}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Clay\Clay.Build.cs">
       <Filter>Source\Clay</Filter>
@@ -39,6 +41,12 @@
       <Filter>Source\Clay</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Clay\ClayGameModeBase.h">
+      <Filter>Source\Clay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clay\MyActor.cpp">
+      <Filter>Source\Clay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clay\MyActor.h">
       <Filter>Source\Clay</Filter>
     </ClInclude>
   </ItemGroup>
